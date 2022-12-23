@@ -12,3 +12,5 @@ They are of three types Singly, Double and Circular Linked Lists.(All the possib
 <br>
 <h4>(i) Singly Linked List :</h4>
 A type of linear linked list that is unidirectional and it contains only two parts : one data part and one linked part . It can only be traversed in one direction .
+<h4>(ii) Doubly Linked List :</h4>
+A type of linear linked list that is bidirectional and it three parts : one data part and two linked parts . It can be traversed in both the directions .
