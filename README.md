@@ -36,3 +36,8 @@ Queue accompanies a principle known as FIFO (First In First Out) or LILO (Last I
 2) dequeue(): Removes an element from the queue.<br>
 3) peek(): Returns the top object of the Queue without removing it.<br>
 NOTE:  The mentioned operations are the most important ones but we can also have other operations like size() and all.
+
+
+---
+### :man_technologist: Chapter-3:
+<h3>Tree</h3>
