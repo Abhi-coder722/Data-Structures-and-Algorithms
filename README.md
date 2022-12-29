@@ -41,3 +41,4 @@ NOTE:  The mentioned operations are the most important ones but we can also have
 ---
 ### :man_technologist: Chapter-3:
 <h3>Tree</h3>
+<h4>Binary Search Tree</h4>A binary search tree is a data structure that quickly allows us to maintain a sorted list of numbers.
