@@ -40,5 +40,20 @@ NOTE:  The mentioned operations are the most important ones but we can also have
 
 ---
 ### :man_technologist: Chapter-3:
-<h3>Tree</h3>
-<h4>Binary Search Tree</h4>A binary search tree is a data structure that quickly allows us to maintain a sorted list of numbers.
+<h3>Tree and Graph</h3>
+<h4>Tree</h4>
+A tree follows some rule that determines the relationship between the nodes.<br>
+A tree is a collection of edges and nodes . Here , there is atleast one node known as a root node (or a starting node).<br>
+There are three ways of traversal of a Tree :- <br>Preorder, Inorder ad Post-order all are present in the Binary Search Tree (A data structure that quickly allows us to maintain a sorted list of numbers) code above.
+<br>
+Apart from this there are other operations such as Insertion, Search and Deletion of an edge .<br><br>
+There are four various types of trees :<br>
+<p>   #-Binary tree:  A Binary Tree is a non-linear data structure in which a node can have 0, 1 or 2 nodes. Individually, each node consists of a left pointer, right pointer and data element. </p><br>
+<p>   #-Binary Search Tree:  A Binary Search Tree is an organized binary tree with a structured organization of nodes. Each subtree must also be of that particular structure. </p><br>
+<p>   #-AVL Tree:  The AVL tree is a data structure in computer science. It is a binary search tree with the additional property that the height of the two subtrees differs by at most one at each node.</p><br>
+<p>   #-B tree:  B-tree is a data structure that is often used in databases and file systems. A B-tree is an always fully balanced tree that stores data sorted by key. It can be binary, but is generally not a binary tree. </p>
+
+<h4>Graph</h4>
+A Graph does not follow any rule that defines the relationship among the nodes .
+A graph is a collection of vertices and node .
+Both are non-linear Data Structures
