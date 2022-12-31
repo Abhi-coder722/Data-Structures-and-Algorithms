@@ -57,3 +57,7 @@ There are four various types of trees :<br>
 A Graph does not follow any rule that defines the relationship among the nodes .
 A graph is a collection of vertices and node .
 Both are non-linear Data Structures
+There are two ways of graph traversal :<br>
+BFS and DFS.<br>
+BFS:  Breadth-first search is a method in computer science for searching or traversing the nodes of a graph. It is one of the uninformed search algorithms.<br>
+DFS:  Depth-first search is a method for finding nodes in a graph. In contrast to breadth-first search, depth-first search first follows a path completely in depth before branching paths are followed.
