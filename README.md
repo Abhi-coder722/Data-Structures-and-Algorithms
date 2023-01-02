@@ -63,7 +63,7 @@ BFS:  Breadth-first search is a method in computer science for searching or trav
 DFS:  Depth-first search is a method for finding nodes in a graph. In contrast to breadth-first search, depth-first search first follows a path completely in depth before branching paths are followed.
 
 ---
-### :man_technologist: Chapter-3:
+### :man_technologist: Chapter-4:
 <h3>ALGORITHM DESIGN TECHNIQUES & SEARCHING AND SORTING TECHNIQUES.</h3>
 <h4>Sorting Algorithms</h4>
 i) Insertion Sort <br>
