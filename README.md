@@ -37,6 +37,7 @@ Queue accompanies a principle known as FIFO (First In First Out) or LILO (Last I
 3) peek(): Returns the top object of the Queue without removing it.<br>
 NOTE:  The mentioned operations are the most important ones but we can also have other operations like size() and all.
 
+<br>The most useful example of stact and queue is Type Conversion i.e. Infix to Postfix Conversion. 
 
 ---
 ### :man_technologist: Chapter-3:
